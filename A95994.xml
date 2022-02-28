@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Hollanders concerning their joyning with the Royall Navie, in their present expedition for England, under the command of His Highnesse James Duke of York, Lord High Admirall of the said fleet. And their resolution and protestation thereupon. Likewise, the Prince of Wales his landing in Holland, and the beating up of drums for volunteers in Rotterdam, under the command of the Lord Hopton to assist the King of England. Also, a message sent from the Lord Generall Hambleton, to Major General Lambert, declaring the grounds and reasons of his marching into England, and their resolution to settle the peace of King and Kingdom, according to the Covenant. With Major Generall Lamberts answer thereunto.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95994</idno>
+            <idno type="STC">Wing V61</idno>
+            <idno type="STC">Thomason E453_2</idno>
+            <idno type="STC">ESTC R204915</idno>
+            <idno type="EEBO-CITATION">99864363</idno>
+            <idno type="PROQUEST">99864363</idno>
+            <idno type="VID">161980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161980)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Hollanders concerning their joyning with the Royall Navie, in their present expedition for England, under the command of His Highnesse James Duke of York, Lord High Admirall of the said fleet. And their resolution and protestation thereupon. Likewise, the Prince of Wales his landing in Holland, and the beating up of drums for volunteers in Rotterdam, under the command of the Lord Hopton to assist the King of England. Also, a message sent from the Lord Generall Hambleton, to Major General Lambert, declaring the grounds and reasons of his marching into England, and their resolution to settle the peace of King and Kingdom, according to the Covenant. With Major Generall Lamberts answer thereunto.</title>
+                  <author>Vandelet, J.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in Holland, and repirnted [sic] at London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An abstract of the proceedings of the Royall Navie" is signed: J. Vandelet.</note>
+                  <note>Annotation on Thomason copy: "July 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161980:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE HOLLANDERS Concerning Their joyning with the Royall Navie, in their preſent Expe<g ref="char:EOLhyphen"/>dition for <hi>England,</hi> under the Command of His High<g ref="char:EOLhyphen"/>neſſe JAMES Duke of YORK, Lord High Admirall of the ſaid Fleet.</p>
+            <p>And their Reſolution and Proteſtation thereupon.</p>
+            <p>Likewiſe, The Prince of <hi>Wales</hi> His landing in <hi>Holland,</hi> and the beating up of Drums for Volunteers in <hi>Rotterdam,</hi> under the Command of the Lord <hi>Hopton,</hi> to aſſiſt the King of <hi>ENGLAND.</hi>
+            </p>
+            <p>Alſo, A Meſſage ſent from the Lord Generall <hi>Hambleton,</hi> to Ma<g ref="char:EOLhyphen"/>jor General <hi>Lambert,</hi> declaring the Grounds and Rea<g ref="char:EOLhyphen"/>ſons of his marching into <hi>England,</hi> and their Re<g ref="char:EOLhyphen"/>ſolution to ſettle the Peace of King and Kingdom, according to the Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>
+               <add>July 17</add> With Major Generall <hi>Lamberes</hi> Anſwer thereunto.</p>
+            <p>Printed in <hi>Holland,</hi> and re-printed at <hi>London</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161980:2"/>
+            <pb n="1" facs="tcp:161980:2"/>
+            <head>THE DECLARATION OF THE HOLLANDERS Concerning Their joyning with the Royall Navie, in their deſigne againſt <hi>England,</hi> to aſſiſt the Kings Majeſty, and to eſtabliſh Him in His Rights.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Royall Navie (as ſome calls them) are ſtill in Gorith Road, and have not as yet weigh<g ref="char:EOLhyphen"/>ed Anchor, nor hoyſted ſayl for <hi>England;</hi> for they are detained here, and will not be permitted to goe, untill ſuch time that they have given ſatisfaction
+<pb n="2" facs="tcp:161980:3"/>for their preſent Fraight, as Victuals, Beere, and other Neceſſaries, which doth amount to a very conſidera<g ref="char:EOLhyphen"/>ble ſum, but its very probable there will be a ſpeedy reconciliation amongſt them, for ſeverall Invitations are ſent to his Highneſſe the Prince of <hi>Orenge,</hi> to in<g ref="char:EOLhyphen"/>vite him to the aſſiſtance of the ſaid Ships, and its thought he will incline and adhere thereunto, for no means are left unaſſayed to accompliſh the ſame, and divers Marchants, and others, are very active there<g ref="char:EOLhyphen"/>in.</p>
+            <p>The Captains, and other Officers of the ſaid Ships are very acti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to advance their Deſign, and uſeth their utmoſt endeavours, for a faire correſpondency be<g ref="char:EOLhyphen"/>twixt the Hollanders and themſelves, who by their in<g ref="char:EOLhyphen"/>ſinuations and ſuggeſtions, hath drawn divers to com<g ref="char:EOLhyphen"/>ply with them, and to adhere to their confederacy, and hath declared their Reſolutions to joyne with his Ma<g ref="char:EOLhyphen"/>jeſties Ships in this preſent Expedition for England for the ſetling of the King in his Royall Throne, and reſtoring of the Royall Progeny to their juſt Rights and Priviledges; ſaying, They are bound both by the Laws of GOD and Man to aſſiſt a Chriſtian Prince in the time of his greateſt diſtreſſe and calamities.</p>
+            <p>But the major part are of different opinions, and will not engage againſt England, but doth uſe their ut<g ref="char:EOLhyphen"/>moſt endeavours to prevent and obſtruct the Deſignes and Engagements of the ſaid Party, who doth hold compliance with the Engliſh Royaliſts, and have decla<g ref="char:EOLhyphen"/>red their ſenſe and reſolut on touching the King and Parliament, proteſting, That they will be no wayes in<g ref="char:EOLhyphen"/>ſtrumentall to foment new differences, neither ſhall their hands be dipped in the innocent bloud of Eng<g ref="char:EOLhyphen"/>land,
+<pb n="3" facs="tcp:161980:3"/>nor their hearts acceſſary to any ſuch commoti<g ref="char:EOLhyphen"/>ons, for the engaging their Neighbour Nation in a moſt bloudy and ſecond War.</p>
+            <p>Neither will they give any aſſiſtance therein, either by ſending of Forces into England, to involve her in bloud, or by contributions of Monies or other Neceſ<g ref="char:EOLhyphen"/>ſaries for War, to keep the ſword from ſheathing, and to die it in a more purple and ſcarlet object; but have further declared, That they will uſe their utmoſt en<g ref="char:EOLhyphen"/>deavours to prevent the effuſion of bloud, and to cure the wounds, and ſtop the ſluce which now floweth, and lies weltring within the Bowels of England, that ſo ſhe may no longer be imbru'd in bloud, but ſpeedily cured of her domeſtique Diſeaſe, and that her out-parts may be preſerved and kept as a Bulwark of defence, to with ſtand and oppoſe all oppoſition whatſoever.</p>
+            <p>We deſire much to hear of the Reſults and procee<g ref="char:EOLhyphen"/>dings betwixt the Parliament and the City, and of their concurrence, touching a Perſonall Treaty with the Kings Majeſty.</p>
+            <p>We hear that the Prince of Wales is landed in theſe parts, and divers other Lords with him; but what their intention or deſign is, we cannot as yet diſcover, only we have a ſuppoſition, that they intend to increaſe their number, and to raiſe what Forces they can, and then to take ſhipping for England.</p>
+            <p>Yeſterday two Drums beat up and down this City for Volunteers, and Proclamation was made in ſeveral places. That all Gentlemen ſouldiers, who had a deſire to ſerve the King of England, under the command of the L. <hi>Hopton,</hi> ſhould repair to the ſigne of the Prince of <hi>Orenge,</hi> in Broad-ſtreet, and there receive entertain<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="4" facs="tcp:161980:4"/>
+            <p> Here is great preparations for the entertainment of the Prince of Wales, who is ſaid to be comming from <hi>Callice,</hi> attended by divers Lords and Gentlemen, but their deſign is not yet known.</p>
+            <p>Divers old Souldiers and Commanders are come out of France and other parts, to this City. They give out, an if they had a Deſign for <hi>England,</hi> and wee are the rather conduced to believe the ſame, by reaſon of the Revolted ſhips ſtill lying in Go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith Haven, who it is ſuppoſed are to tranſport the ſaid Officers and Soul<g ref="char:EOLhyphen"/>diers into <hi>England.</hi>
+            </p>
+            <p>The Duke of York hath declared his great unwil<g ref="char:EOLhyphen"/>lingneſſe to engage in the ſaid ſhips, untill ſuch time that He can be accommodated with money, armes, and other Furniture belonging to War.</p>
+            <p>Sir, I have here ſent you incloſed a brief Abſtract of the preſent proceedings of the Royall Navie, touch<g ref="char:EOLhyphen"/>ing their preſent Deſign for <hi>England, viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="summary_of_proceedings">
+                        <head>An Abſtract of the proceedings of the Royall Navie.</head>
+                        <p>
+                           <hi>We hear, that they have ſet forth a Declaration, decla<g ref="char:EOLhyphen"/>ring the grounds and reaſons of this their Ingagement, &amp; their reſolution to maintain the Antient Government &amp; known laws of the Kingdome of</hi> England, <hi>and to preſerve and defend the Kings Majeſties Royall Perſon, and to en<g ref="char:EOLhyphen"/>deavour the re-inthroning of him in his Royall Palace at</hi> White-Hall.</p>
+                        <p>But it is believed, the Bud will be blaſted in the Bloom, for they are like to get little aſſiſtance from
+<pb n="5" facs="tcp:161980:4"/>hence, the Hollander is ſenſible of the miſeries of war, and the happineſſe of peac, and therefore is reſolved to maintain Unity with <hi>England,</hi> and to keep their ſword ſheathed, rathen then to aſſiſt a perfidious party who have revolted from the truſt repoſed in them. Thus ha<g ref="char:EOLhyphen"/>ving communicated to you that which is moſt obſer<g ref="char:EOLhyphen"/>vable in theſe parts, I deſire to be a participator of your intelligence in <hi>England,</hi> and remain</p>
+                        <closer>
+                           <signed>Your most affectionate friend, <hi>J. Vandelet.</hi>
+                           </signed>
+                           <dateline>Rotterdam <date>12. July 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="letter">
+            <head>An Expreſſe from the North.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>MAjor Gen.</hi> Lambert <hi>hath received a letter from D.</hi> Hamilton, <hi>intimating, that the P. of</hi> England <hi>had not given ſatisfaction to the Parl. of</hi> Scotland <hi>in their de<g ref="char:EOLhyphen"/>ſires ſent unto them, for effecting whereof he was to come with an Army into the Kingdom of</hi> England, <hi>in which en<g ref="char:EOLhyphen"/>terprize, he expected no oppoſition from him.</hi> Gen Lam<g ref="char:EOLhyphen"/>bert returned him anſwer, <hi>That as to</hi> non <hi>ſatisfaction from the Parl. of</hi> England, <hi>he had not to ſay; but as to his <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omming in an hoſtile way into</hi> England <hi>he had authori<g ref="char:EOLhyphen"/>ty from Parl. to reſiſt any power not raiſed by them, and therefore declared, that he and his Army would oppoſe, and fight with them, as traytors and enemies to the Kingdome of</hi> England, <hi>&amp; that this great breach of Covenant between the two Nations, he doubted not but would be revenged up<g ref="char:EOLhyphen"/>on them to their utter ruine, &amp;c. This Letter together with the Anſwer, was read in the Houſe of Commons,</hi> July
+<pb n="6" facs="tcp:161980:5"/>12. <hi>and the Commons voted, that they approve what Maj. Gen.</hi> Lambert <hi>had ſent, in anſwer to the ſaid Letter of D.</hi> Hamiltons.</p>
+            <p>It is reported, that the ſaid Duke <hi>Hamilton</hi> with his Army have entred <hi>England,</hi> and are joyned with Ma<g ref="char:EOLhyphen"/>jor Gen. <hi>Langdale,</hi> and that another Party are to croſſe <hi>Tweed,</hi> commanded by Major Gen. <hi>Monroe,</hi> who are to march in two Bodies, and to advance with expedition towards the South; which indeed they might eaſily do, were it not for thoſe reſolute Heroicks in the North who are reſolved to ſtop their paſſage, and to fight with them, be they three to one, as appeares by their late reſolution ſent to the Scottiſh Army, intimating, that if they proſecuted their Deſign againſt this King<g ref="char:EOLhyphen"/>dome, they would give them a field with 10000. men, againſt any 30000. they ſhould bring.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
